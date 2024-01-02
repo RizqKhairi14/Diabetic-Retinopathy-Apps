@@ -1,0 +1,3 @@
+rootProject.name = "DRApps"
+include ':app'
+include ':OpenCV'

@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">DRApps</string>
+
+    <string name="Disclaimer">Disclaimer:\n
+        - This app is made for the purpose of finishing my Bachelor degree\n
+        - This app may not precisely 100% classified the level of severity\n
+        - There is maybe better architecture to classified Diabetic Retinopathy\n
+    </string>
+
+    <string name="try_it">Try It</string>
+
+    <string name="gallery">Gallery</string>
+
+    <string name="camera">Camera</string>
+
+    <string name="predict">Predict</string>
+
+    <string name="result_of_prediction">Result of Prediction</string>
+
+    <string name="Intro">Diabetic Retinopathy (DR) is a complication of diabetes that affects the eyes. DR is caused by damage to the blood vessels in the retina.\n\n
+        This application\'s aim at detecting early symptoms of DR. Early symptoms include floaters, blurriness, micro aneurysms, dark areas of vision and difficulty perceiving colors.\n\n
+        DR consists of 5 levels of severity which are normal, mild, medium, severe, and proliferative.\n\n
+        With this application user can detect 5 levels of DR severity. Early detection may help patient to treat the disease before it gets serious.
+    </string>
+
+    <string name="Normal">Normal:\n\n The prediction show the eye is normal and does not have any characteristic related to DR symptoms.</string>
+
+    <string name="Mild">Mild:\n\n The prediction show a mild symptoms of DR, indicated by the present of at least one micro aneurysm present on retina.</string>
+
+    <string name="Medium">Medium:\n\n The prediction show a medium / moderates symptoms of DR, characterized by multiple micro aneurysms, dot-and-blot hemorrhages, venous beading, and/or cotton wool spots./n You are recommended to see the doctor.</string>
+
+    <string name="Severe">Severe\n\n The prediction show a severe symptoms of DR, mostly characterized by cotton wool spots, venous beading, and severe intra retinal microvascular abnormalities.\n You are strongly recommended to see the doctor.</string>
+
+    <string name="Proliferative">Proliferative:\n\n The prediction shows the eyes have the highest level of symptoms of DR which is Proliferative, characterized by a newly formed of fragile blood vessels in the retina and into the vitreous. The newly formed blood vessels may leak blood into the vitreous clouding vision, and may lead up to the development of glaucoma which will end up with blindness.\n You are strongly recommended to see the doctor.</string>
+
+    <string name="about">About</string>
+
+    <string name="info">
+        Email: khairiyazid1404@gmail.com\n
+        Phone Number: 082186284416\n
+        Instagram: @rizqkhairi_
+    </string>
+
+    <string name="hyperlink">
+        LinkedIn: <a href="https://www.linkedin.com/in/rizq-khairi-546907214/">linkedin.com/rizq_khairi</a>
+    </string>
+
+</resources>
